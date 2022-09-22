@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084930827449",
+    "project_id": "rn-firebase-dce22",
+    "storage_bucket": "rn-firebase-dce22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084930827449:android:71a42ced75ea71ddd36768",
+        "android_client_info": {
+          "package_name": "com.rnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084930827449-nemf9ucf3tr9tvdqsm7q4vnj4el68b3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkkFP51cA_X8KMDgGwlqmA3q2sbYahak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084930827449-nemf9ucf3tr9tvdqsm7q4vnj4el68b3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
